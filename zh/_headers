@@ -1,0 +1,88 @@
+/*
+  X-Frame-Options: DENY
+  X-XSS-Protection: 1; mode=block
+  X-Content-Type-Options: nosniff
+  Referrer-Policy: origin-when-cross-origin
+*/
+
+
+
+
+Link: </output/css/app.css>; rel=preload; as=style nopush  
+Link: </output/js/app.js>; rel=preload; as=script nopush
+
+Link: </fonts/hugo.eot>; rel=preload; as=font nopush
+
+Link: </fonts/hugo.svg>; rel=preload; as=font nopush
+
+Link: </fonts/hugo.ttf>; rel=preload; as=font nopush
+
+Link: </fonts/hugo.woff>; rel=preload; as=font nopush
+
+
+Link: </fonts/muli-latin-200.woff>; rel=preload; as=font nopush
+
+Link: </fonts/muli-latin-200.woff2>; rel=preload; as=font nopush
+
+Link: </fonts/muli-latin-200italic.woff>; rel=preload; as=font nopush
+
+Link: </fonts/muli-latin-200italic.woff2>; rel=preload; as=font nopush
+
+Link: </fonts/muli-latin-300.woff>; rel=preload; as=font nopush
+
+Link: </fonts/muli-latin-300.woff2>; rel=preload; as=font nopush
+
+Link: </fonts/muli-latin-300italic.woff>; rel=preload; as=font nopush
+
+Link: </fonts/muli-latin-300italic.woff2>; rel=preload; as=font nopush
+
+Link: </fonts/muli-latin-400.woff>; rel=preload; as=font nopush
+
+Link: </fonts/muli-latin-400.woff2>; rel=preload; as=font nopush
+
+Link: </fonts/muli-latin-400italic.woff>; rel=preload; as=font nopush
+
+Link: </fonts/muli-latin-400italic.woff2>; rel=preload; as=font nopush
+
+Link: </fonts/muli-latin-600.woff>; rel=preload; as=font nopush
+
+Link: </fonts/muli-latin-600.woff2>; rel=preload; as=font nopush
+
+Link: </fonts/muli-latin-600italic.woff>; rel=preload; as=font nopush
+
+Link: </fonts/muli-latin-600italic.woff2>; rel=preload; as=font nopush
+
+Link: </fonts/muli-latin-700.woff>; rel=preload; as=font nopush
+
+Link: </fonts/muli-latin-700.woff2>; rel=preload; as=font nopush
+
+Link: </fonts/muli-latin-700italic.woff>; rel=preload; as=font nopush
+
+Link: </fonts/muli-latin-700italic.woff2>; rel=preload; as=font nopush
+
+Link: </fonts/muli-latin-800.woff>; rel=preload; as=font nopush
+
+Link: </fonts/muli-latin-800.woff2>; rel=preload; as=font nopush
+
+Link: </fonts/muli-latin-800italic.woff>; rel=preload; as=font nopush
+
+Link: </fonts/muli-latin-800italic.woff2>; rel=preload; as=font nopush
+
+Link: </fonts/muli-latin-900.woff>; rel=preload; as=font nopush
+
+Link: </fonts/muli-latin-900.woff2>; rel=preload; as=font nopush
+
+Link: </fonts/muli-latin-900italic.woff>; rel=preload; as=font nopush
+
+Link: </fonts/muli-latin-900italic.woff2>; rel=preload; as=font nopush
+
+
+    
+/output/css/app.css
+Cache-Control: public, max-age=31556926,immutable
+  
+
+/output/js/app.js
+Cache-Control: public, max-age=31556926,immutable
+
+

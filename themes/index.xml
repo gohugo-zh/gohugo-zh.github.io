@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Themes on Hugo</title>
+    <link>https://gohugo.io/themes/</link>
+    <description>Recent content in Themes on Hugo</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 01 Feb 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://gohugo.io/themes/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Install and Use Themes</title>
+      <link>https://gohugo.io/themes/installing-and-using-themes/</link>
+      <pubDate>Wed, 01 Feb 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://gohugo.io/themes/installing-and-using-themes/</guid>
+      <description>Hugo currently doesn’t ship with a “default” theme. This decision is intentional. We leave it up to you to decide which theme best suits your Hugo project.
+  Assumptions  You have already installed Hugo on your development machine. You have git installed on your machine and you are familiar with basic git usage.  Install Themes   The community-contributed themes featured on themes.gohugo.io are hosted in a centralized GitHub repository.</description>
+    </item>
+    
+    <item>
+      <title>Theme Components</title>
+      <link>https://gohugo.io/themes/theme-components/</link>
+      <pubDate>Wed, 01 Feb 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://gohugo.io/themes/theme-components/</guid>
+      <description>Since Hugo 0.42 a project can configure a theme as a composite of as many theme components you need:
+config. yaml&amp;nbsp; toml&amp;nbsp; json&amp;nbsp;  theme:-my-shortcodes-base-theme-hyde   theme = [&amp;#34;my-shortcodes&amp;#34;, &amp;#34;base-theme&amp;#34;, &amp;#34;hyde&amp;#34;]    { &amp;#34;theme&amp;#34;: [ &amp;#34;my-shortcodes&amp;#34;, &amp;#34;base-theme&amp;#34;, &amp;#34;hyde&amp;#34; ] }      You can even nest this, and have the theme component itself include theme components in its own config.toml (theme inheritance).1
+The theme definition example above in config.</description>
+    </item>
+    
+    <item>
+      <title>Create a Theme</title>
+      <link>https://gohugo.io/themes/creating/</link>
+      <pubDate>Wed, 01 Feb 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://gohugo.io/themes/creating/</guid>
+      <description>If you&amp;rsquo;re creating a theme with plans to share it on the Hugo Themes website please note that your theme&amp;rsquo;s demo will be available in a sub-directory of website and for the theme&amp;rsquo;s assets to load properly you will need to create absolute paths in the templates by using either the absURL function or .Permalink. Also make sure not to use a forward slash / in the beginning of a PATH, because Hugo will turn it into a relative URL and the absURL function will have no effect.</description>
+    </item>
+    
+  </channel>
+</rss>
